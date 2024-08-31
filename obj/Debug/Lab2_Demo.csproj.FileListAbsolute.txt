@@ -1,3 +1,0 @@
-Z:\MyForm\obj\Debug\Lab2_Demo.csproj.AssemblyReference.cache
-Z:\MyForm\obj\Debug\MyForm.exe
-Z:\MyForm\obj\Debug\MyForm.pdb
