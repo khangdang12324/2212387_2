@@ -1,0 +1,27 @@
+Z:\MyForm\obj\Debug\Form1.csproj.AssemblyReference.cache
+Z:\MyForm\obj\Debug\MyForm.exe
+Z:\MyForm\obj\Debug\MyForm.pdb
+Z:\MyForm\bin\Debug\MyForm.exe.config
+Z:\MyForm\bin\Debug\MyForm.exe
+Z:\MyForm\bin\Debug\MyForm.pdb
+Z:\MyForm\obj\Debug\MyForm.frmTrungTam.resources
+Z:\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+Z:\MyForm\obj\Debug\Form1.csproj.GenerateResource.cache
+Z:\MyForm\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+Z:\MyForm\obj\Debug\MyForm.frmChinh.resources
+Z:\MyForm\obj\Debug\MyForm.frmTBGiaoVien.resources
+Z:\MyForm\obj\Debug\MyForm.lblThongBao.resources
+E:\PhatTrienUngDungDesktop\Windown Forms\2212387_2\bin\Debug\MyForm.exe.config
+E:\PhatTrienUngDungDesktop\Windown Forms\2212387_2\bin\Debug\MyForm.exe
+E:\PhatTrienUngDungDesktop\Windown Forms\2212387_2\bin\Debug\MyForm.pdb
+E:\PhatTrienUngDungDesktop\Windown Forms\2212387_2\obj\Debug\Form1.csproj.AssemblyReference.cache
+E:\PhatTrienUngDungDesktop\Windown Forms\2212387_2\obj\Debug\Form1.csproj.SuggestedBindingRedirects.cache
+E:\PhatTrienUngDungDesktop\Windown Forms\2212387_2\obj\Debug\MyForm.frmTBGiaoVien.resources
+E:\PhatTrienUngDungDesktop\Windown Forms\2212387_2\obj\Debug\MyForm.frmTrungTam.resources
+E:\PhatTrienUngDungDesktop\Windown Forms\2212387_2\obj\Debug\MyForm.Properties.Resources.resources
+E:\PhatTrienUngDungDesktop\Windown Forms\2212387_2\obj\Debug\MyForm.frmChinh.resources
+E:\PhatTrienUngDungDesktop\Windown Forms\2212387_2\obj\Debug\MyForm.lblThongBao.resources
+E:\PhatTrienUngDungDesktop\Windown Forms\2212387_2\obj\Debug\Form1.csproj.GenerateResource.cache
+E:\PhatTrienUngDungDesktop\Windown Forms\2212387_2\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+E:\PhatTrienUngDungDesktop\Windown Forms\2212387_2\obj\Debug\MyForm.exe
+E:\PhatTrienUngDungDesktop\Windown Forms\2212387_2\obj\Debug\MyForm.pdb
